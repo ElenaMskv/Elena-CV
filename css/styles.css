@@ -5,10 +5,10 @@
 
 /* Styles for the body */
 
-body {
-	font-family: 'Raleway', sans-serif;;
+.body {
+	font: 'Raleway', sans-serif;
 	color: #202030;
-	background-color: #f8f8fc;
+
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -50,3 +50,8 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.bla {
+	font-family: 'Tiro Devanagari Marathi', serif;
+	color: #202030;
+	}
